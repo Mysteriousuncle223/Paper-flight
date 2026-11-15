@@ -1,12 +1,13 @@
 {
-  "version": "0.9.0",
-  "title": "Automatic Updates & Patch Notes",
-  "summary": "Paper Flight now announces new releases and checks for updates on the public website.",
+  "version": "1.0.0",
+  "title": "The Ascension Update",
+  "summary": "Daily challenges, achievements, unlimited Ascensions and permanent skill tree upgrades.",
   "notes": [
-    "New What\u2019s New popup after each version update",
-    "Patch Notes button on the main menu",
-    "Automatic checks for new versions every 60 seconds",
-    "Reload prompt when a newer version is published",
-    "Existing plane and coin saves remain in the browser"
+    "Three rotating daily challenges with coin rewards",
+    "15 permanent trophy achievements with no rewards",
+    "Unlimited Ascensions that reset normal progress",
+    "Earn AP from Ascension and buy permanent skill upgrades",
+    "Each skill level costs progressively more AP",
+    "Existing v0.9 browser saves are preserved until you Ascend"
   ]
 }
