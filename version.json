@@ -1,0 +1,12 @@
+{
+  "version": "0.9.0",
+  "title": "Automatic Updates & Patch Notes",
+  "summary": "Paper Flight now announces new releases and checks for updates on the public website.",
+  "notes": [
+    "New What\u2019s New popup after each version update",
+    "Patch Notes button on the main menu",
+    "Automatic checks for new versions every 60 seconds",
+    "Reload prompt when a newer version is published",
+    "Existing plane and coin saves remain in the browser"
+  ]
+}
